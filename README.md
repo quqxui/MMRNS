@@ -20,6 +20,12 @@ The embeddings can be downloaded in the [Dropbox](https://www.dropbox.com/s/e2rn
 ## Usage
 
 ```
+mkdir data models results
+```
+
+put the datasets in `./data` and 
+
+```
 python run_gumbel.py --do_train --do_valid --do_test --data_path=data/MMKB-DB15K --model=TransE -n=20 -d=200 -g=6 -a=0.5 \
         -r=0.0 -lr=0.0001 -kca_lr=0.0001 --sample_method=gumbel  --pre_sample_num=1500  --loss_rate=100 --exploration_temp=10 \
         --gpu=0  --max_steps=100000 --valid_steps=10000 -b=400
