@@ -15,7 +15,7 @@ The source images and triples of MMKB-DB15K are from [mmkb](https://github.com/m
 
 The source text of three datasets are from [DBpedia](https://www.dbpedia.org/).
 
-The embeddings can be downloaded in the [Dropbox](https://www.dropbox.com/s/e2rn5pseylhohmm/MMRNS-Datasets.zip?dl=0).
+The embeddings and raw data can be downloaded in the [Aliyundrive](https://www.aliyundrive.com/s/piMyCgT9G76).
 
 ## Usage
 
