@@ -15,7 +15,7 @@ The source images and triples of MMKB-DB15K are from [mmkb](https://github.com/m
 
 The source text of three datasets are from [DBpedia](https://www.dbpedia.org/).
 
-The embeddings and raw data can be downloaded in the [Aliyundrive](https://www.aliyundrive.com/s/piMyCgT9G76).
+The embeddings and raw data can be downloaded in the [Baidu Drive](https://pan.baidu.com/s/1gDwaGD0r8AJhYAXGxOc9Cg), with extraction code: **758p**
 
 ## Usage
 
